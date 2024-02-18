@@ -34,6 +34,22 @@ h1:nth-of-type(2) {
   color: #17110D;
 }
 
+h3 {
+position: absolute;
+width: 276px;
+height: 192px;
+left: 34px;
+top: 118px;
+
+font-family: 'Josefin Slab';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 64px;
+
+color: #17110D;
+}
+
 * {
     margin: 0;
     padding: 0;
