@@ -9,24 +9,22 @@
 }
 
 .empieza-viajes {
-    position: absolute;
-    width: 276px;
-    height: 192px;
-    left: 34px;
-    top: 118px;
-    font-family: 'Josefin Slab', sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 64px;
-    line-height: 64px;
-    color: #17110D;
-    margin-top: 10px;
+  position: absolute;
+  width: 276px;
+  height: 192px;
+  left: 34px;
+  top: 118px;
+  font-family: 'Josefin Slab', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 64px;
+  color: #17110D;
+  margin-top: 10px;
 }
 
 .link {
   text-decoration: none;
-  background-color: #FFBE2E;
-  color: black;
   padding: 20px 40px;
   border-radius: 500px;
   text-align: center;
@@ -34,12 +32,12 @@
   font-size: 24px;
 }
 
-.link:first-child {
+.link.black {
   background-color: black;
   color: white;
 }
 
-.link:nth-child(2) {
+.link.white {
   background-color: white;
   color: black;
 }
