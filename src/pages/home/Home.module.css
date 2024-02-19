@@ -43,7 +43,7 @@
 }
 
 .hideBackground {
-  background-color: transparent !important;
+  display: none !important;
 }
 
 @media (max-width: 600px) {

@@ -62,7 +62,7 @@ body {
 }
   
 #root {
-    background-color: #FFBE2E;
+  background: linear-gradient(#FFBE2E 60%, white 50%);
 }
   
 @media (max-width: 768px) {

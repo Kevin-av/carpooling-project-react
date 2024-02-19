@@ -9,6 +9,7 @@ const Home = () => {
 
   const handleButtonClick = () => {
     setBackgroundVisible(false);
+    console.log("Background visibility changed:", backgroundVisible);
   };
   
   return (
